@@ -21,9 +21,14 @@
 ### 🔝 Repositório Mais Contribuído
 ![](https://github-contributor-stats.vercel.app/api?username=Nicolas125xy&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-# ![snake gif](https://github.com/Nicolas125xy/Nicolas125xy/blob/output/github-contribution-grid-snake.gif)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Nicolas125xy&icon=3&color=11)](https://visitcount.itsvg.in)
+
+---
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas125xy/Nicolas125xy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolas125xy/Nicolas125xy/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nicolas125xy/Nicolas125xy/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- Orgulhosamente criado com GPRM ( https://gprm.itsvg.in ) -->
