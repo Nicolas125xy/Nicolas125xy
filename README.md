@@ -21,6 +21,8 @@
 ### 🔝 Repositório Mais Contribuído
 ![](https://github-contributor-stats.vercel.app/api?username=Nicolas125xy&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+# ![snake gif](https://github.com/Nicolas125xy/Nicolas125xy/blob/output/github-contribution-grid-snake.gif)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Nicolas125xy&icon=3&color=11)](https://visitcount.itsvg.in)
 
