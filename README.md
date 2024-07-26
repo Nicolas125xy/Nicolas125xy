@@ -1,7 +1,7 @@
 # 💫 Quem sou eu?
 👋 Olá! Eu sou Nícolas Adriel<br>
 
-🔭 Atualmente estou desenvolvendo: um aplicativo chamado Pomodoro usando React, Tailwind CSS, Typescript e Electron, com o suporte do ChatGPT.<br><br>👯 Estou em busca de colaborar em: Projetos que contribuam para meu crescimento pessoal e profissional, especialmente nas áreas de desenvolvimento de software e tecnologia.<br><br>🤝 Procuro ajuda com: Iniciar no mundo da programação, Linux e qualquer área relacionada à tecnologia, visando aprimorar minhas habilidades profissionais.<br><br>🌱 Atualmente estou aprendendo: Bash, Linux, React e estou desenvolvendo minhas habilidades de forma independente e contínua.<br><br>💬 Pergunte-me sobre: Qualquer tema, desde que abordado de maneira respeitosa e profissional.<br><br>⚡ Fato interessante: Embora meu computador seja um pouco antigo, ele continua sendo um valioso companheiro no meu aprendizado e desenvolvimento.
+<br>👯 Estou em busca de colaborar em: Projetos que contribuam para meu crescimento pessoal e profissional, especialmente nas áreas de desenvolvimento de software e tecnologia.<br><br>🤝 Procuro ajuda com: Iniciar no mundo da programação, Linux e qualquer área relacionada à tecnologia, visando aprimorar minhas habilidades profissionais.<br><br>🌱 Atualmente estou aprendendo: Bash, Linux, React e estou desenvolvendo minhas habilidades de forma independente e contínua.<br><br>💬 Pergunte-me sobre: Qualquer tema, desde que abordado de maneira respeitosa e profissional.<br><br>⚡ Fato interessante: Embora meu computador seja um pouco antigo, ele continua sendo um valioso companheiro no meu aprendizado e desenvolvimento.
 
 # 💻 Stack Tecnológica:
 
